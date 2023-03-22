@@ -162,7 +162,6 @@ padding: 10px;
 .galeria
 {
   font-family: 'open sans';
-  padding:30px;
 }
 .galeria h1
 {
@@ -225,7 +224,6 @@ padding: 10px;
   .contenedor-imagenes
   {
     width: 95%;
-    padding: 42px;
   }
 }
 
@@ -234,7 +232,6 @@ padding: 10px;
   .contenedor-imagenes
   {
     width: 90%;
-    padding: 42px;
   }
   .contenedor-imagenes .imagen
   {
@@ -252,7 +249,6 @@ padding: 10px;
   .contenedor-imagenes
   {
     width: 98%;
-    padding: 42px;
   }
   .contenedor-imagenes .imagen
   {
