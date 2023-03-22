@@ -178,6 +178,7 @@ padding: 10px;
   justify-content: space-around;
   flex-wrap: wrap;
   border-radius: 3px;
+  padding: 42px;
 }
 .contenedor-imagenes .imagen
 {
@@ -225,6 +226,7 @@ padding: 10px;
   .contenedor-imagenes
   {
     width: 95%;
+    padding: 42px;
   }
 }
 
