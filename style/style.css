@@ -234,6 +234,7 @@ padding: 10px;
   .contenedor-imagenes
   {
     width: 90%;
+    padding: 42px;
   }
   .contenedor-imagenes .imagen
   {
@@ -251,6 +252,7 @@ padding: 10px;
   .contenedor-imagenes
   {
     width: 98%;
+    padding: 42px;
   }
   .contenedor-imagenes .imagen
   {
